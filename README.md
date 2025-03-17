@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media1.tenor.com/m/h1Gvxq2oNk4AAAAC/t%C3%A4nzelcore-sigfrid.gif"  />
-</div>
-
 ###
 
 <div align="center">
