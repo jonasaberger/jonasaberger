@@ -2,14 +2,15 @@
   <img height="150" src="https://github.com/jonasaberger/jonasaberger/raw/main/tenor.gif"  />
 </div>
 
-###
-
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://stackoverflow.com/users/30039171/jonas-aberger" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Stack Overflow" />
+  </a>
+  <a href="mailto:jonas.aberger@htl-saalfelden.at">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
+  </a>
 </div>
 
-###
 
 <br clear="both">
 
@@ -31,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Jonas Aberger from Salzburg / Austria<br><br>- 🔭 I’m studying at the HTL-Saalfelden / St.Johann<br>- 📚 I'm currently learning Angular, NestJS, Phobophile (Cryptopsy)</p>
+<p align="left">I'm Jonas Aberger from Salzburg / Austria<br><br>- 🔭 I’m studying at the HTL-Saalfelden / St.Johann<br>- 📚 I'm currently learning Angular, NestJS, Phobophile (Cryptopsy) ;)</p>
 
 ###
 
@@ -78,5 +79,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonasaberger&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+
+<h3 align="left">🏅 Certifications & Badges</h3>
+<a href="https://www.credly.com/badges/8a320063-ede4-472b-9dd6-028c22e6825d/public_url">
+  <img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150" alt="Cisco Certified Badge">
+</a>
 
 ###
