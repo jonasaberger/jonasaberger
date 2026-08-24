@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-- 🎓 Informatik graduate (Matura) - HTL Saalfelden / St. Johann im Pongau
+- 🎓 Information technologies graduate (Matura) - HTL Pongau / St. Johann im Pongau
 - 💻 Background in full-stack development & networking
 - 🧑‍💼 Project lead experience across several team projects, most notably my diploma thesis
 - 🔐 Interested in cybersecurity, penetration testing & red teaming
@@ -23,16 +23,6 @@
 <br>
 
 ## 🚀 Featured Projects
-
-### 🔒 TLS_NetworkEncryption
-
-Demonstrates three stages of network security side by side: plain unencrypted TCP, TLS with server-side authentication, and mutual TLS (mTLS) with authentication on both ends - a practical look at the trust and encryption layers behind everyday HTTPS traffic.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonasaberger/TLS_NetworkEncryption)
-
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" /></a>
-
-<hr style="border:none; height:1px; background-color:#e1e4e8; margin:20px 0;">
 
 ### ☀️ Performance Optimization of a Photovoltaic System - Diploma Thesis
 
@@ -51,7 +41,19 @@ Demonstrates three stages of network security side by side: plain unencrypted TC
 
 <hr style="border:none; height:1px; background-color:#e1e4e8; margin:20px 0;">
 
-### 🤖 Schopenhauer_ChatBot
+
+
+### 🔒 TLS - Network Encryption
+
+Demonstrates three stages of network security side by side: plain unencrypted TCP, TLS with server-side authentication, and mutual TLS (mTLS) with authentication on both ends - a practical look at the trust and encryption layers behind everyday HTTPS traffic.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonasaberger/TLS_NetworkEncryption)
+
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" /></a>
+
+<hr style="border:none; height:1px; background-color:#e1e4e8; margin:20px 0;">
+
+### 🤖 Schopenhauer - ChatBot
 
 A local, privacy-friendly RAG chatbot that answers questions based on the writings of Arthur Schopenhauer. The full pipeline - retrieval, embeddings and generation - runs fully offline via a Python/FastAPI backend, with a React Native/Expo frontend for the chat interface.
 
@@ -65,7 +67,7 @@ A local, privacy-friendly RAG chatbot that answers questions based on the writin
 
 <hr style="border:none; height:1px; background-color:#e1e4e8; margin:20px 0;">
 
-### 📊 ApacheCassandra_Benchmark
+### 📊 Apache Cassandra - Benchmark Suite
 
 A reproducible benchmarking suite comparing Apache Cassandra, PostgreSQL and MongoDB under the same workloads. Containerized with Docker and orchestrated with Kubernetes so the whole benchmark environment can be spun up consistently and repeated on demand.
 
